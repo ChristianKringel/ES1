@@ -7,3 +7,8 @@ Para compilar o projeto, utilize o seguinte comando no terminal:
 
 ```bash
 gcc -o gcc .\romanToInt.c -o .\romanToInt
+```
+
+Para executar o projeto:
+```bash
+.\romanToInt.exe
